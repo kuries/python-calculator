@@ -2,7 +2,9 @@
 
 ### This calculator does basic arithmetic operations on a given sequence of numbers.
 
-### Supports Chain-Calculation.
+### Features:-
+- Supports Chain-Calculation.
+- Handles large values and long sequences.
 
 ## Built with :-
 - Python 3.8.1
